@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Sun Sep 23 19:16:41 CEST 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0139-f421-8658-000000b711e8 
+on database directory C:\hibernate4-maven\Hibernate4Example\simpleDb  with class loader java.net.URLClassLoader@1631573 
+Loaded from file:/C:/Users/emaifro/.m2/repository/org/apache/derby/derby/10.8.2.2/derby-10.8.2.2.jar
+java.vendor=Sun Microsystems Inc.
+java.runtime.version=1.6.0_31-b05
+user.dir=C:\hibernate4-maven\Hibernate4Example
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
